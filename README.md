@@ -1,7 +1,7 @@
 ### Olá, Meu nome è Caio Cezar
 
 - 🔭 Atualmente trabalho como técnico de informatica no Exercicito Brasileiro
-- 🌱 Python, Flask, Java,Js
+- 🌱 Python, Java,Js
 - 😄 Pronouns: Ele/Dele
 - :computer: Atualmente cursando o terceiro periodo de ciência da computação pela faculdade Estácio
 ##
