@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho como técnico de informatica no Exercicito Brasileiro
 - 🌱 Python, Java,Js
 - 😄 Pronouns: Ele/Dele
-- :computer: Atualmente cursando o terceiro periodo de ciência da computação pela faculdade Estácio
+- :computer: Atualmente cursando o sétimo periodo de ciência da computação pela faculdade Estácio
 ##
 <div align="center">
   <a href="https://github.com/caiocezarcosta">
