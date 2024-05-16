@@ -1,12 +1,12 @@
 ### Olá, Meu nome è Caio Cezar
 
-- 🔭 Atualmente trabalho como técnico de informatica no Exercicito Brasileiro
-- 🌱 Python, Java,Js
-- 😄 Pronouns: Ele/Dele
+- 🔭 Atualmente 
+- 🌱 Js
+
 - :computer: Atualmente cursando o sétimo periodo de ciência da computação pela faculdade Estácio
 ##
 <div align="center">
-  <a href="https://github.com/caiocezarcosta">
+  <a href="https://github.com/caiocezarcosta>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocezarcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocezarcosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
