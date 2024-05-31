@@ -1,9 +1,8 @@
 ### Olá, Meu nome è Caio Cezar
 
-- 🔭 Atualmente 
 - 🌱 Js
 
-- :computer: Atualmente cursando o sétimo periodo de ciência da computação pela faculdade Estácio
+- :computer: Atualmente cursando o sétimo periodo de ciência da computação pela faculdade Estácio de Sá
 ##
 <div align="center">
   <a href="https://github.com/caiocezarcosta>
